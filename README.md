@@ -1,2 +1,3 @@
-# pytorch-gan
-GAN model using PyTorch
+# Generative Adversarial Networks using PyTorch
+
+Training a GAN model on MNIST using PyTorch
